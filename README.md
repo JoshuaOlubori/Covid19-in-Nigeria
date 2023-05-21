@@ -47,7 +47,7 @@
   
 ## About The Project 🍪 
 
-![dashboard](https://github.com/JoshuaOlubori/Covid19-in-Nigeria/blob/a9ec8cbec0e463d4b5758603d9e84ed2cf481120/covid_19_dashboard_tableau.png)
+![dashboard](https://github.com/JoshuaOlubori/Covid19-in-Nigeria/blob/2d36b25240aa1829c6e6b8f697f37bbe5c7de78f/dashboard.png)
 
 
 <a name="requirement"/>
