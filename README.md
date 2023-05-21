@@ -101,7 +101,7 @@ Using a mapping function, I renamed the column headers appropriately. Where null
 On preliminary exploration on Excel, I discovered that date values on some of the tables were inconsistently formatted. Therefore all date fields have to be homogenized going forward
 
 I did all data cleaning and wrangling with Python's pandas on Jupyter Notebooks.
-The codes can be accessed via [link](https://github.com/JoshuaOlubori/Data-Science-Analytics-Portfolio-Projects/blob/main/Covid_19_in_Nigeria/nga_covid19.ipynb)
+The codes can be accessed checked [here](https://github.com/JoshuaOlubori/Covid19-in-Nigeria/blob/a8bbb53505da3baae032347552ed12e430d83046/notebook.ipynb)
 
 
   <a name="insights"/>
