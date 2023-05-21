@@ -4,11 +4,9 @@
 
 
 
-![Python](https://img.shields.io/static/v1?style=for-the-
-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![Jupyter](https://img.shields.io/static/v1?style=for-the-
-badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=)
-![Tableau](https://img.shields.io/static/v1?style=for-the- badge&message=Tableau&color=E97627&logo=Tableau&logoColor=FFFFFF&label=) 
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=)
+![Tableau](https://img.shields.io/static/v1?style=for-the-badge&message=Tableau&color=E97627&logo=Tableau&logoColor=FFFFFF&label=) 
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -36,8 +34,9 @@ badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=)
   <ul>
     <li><a href="#overview">Overview</a></li>
         <li><a href="#task">Task</a></li>
-        <li> <a href="#application">Application</a></li>
-        <li><a href="#screenshots">Screenshots </a></li>
+        <li> <a href="#prepare">Prepare</a></li>
+        <li><a href="#process">Process </a></li>
+      <li><a href="#insights">Insights</a></li>
     <li><a href="#contact">Contact</a></li>
   </ul>
 </details>
@@ -50,17 +49,20 @@ badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=)
 
 ![code](https://github.com/JoshuaOlubori/UK-Road-Accident-Casualties/blob/ddb49a64610e84d36ded41d2096050e7a2f3c183/report.png)
 
-Code segment
+
 <a name="requirement"/>
 
-### Overview
+# Overview
 
-he year 2020 will go down in history as one drastically shaped by a virus that, as of late October, had infected more than 40 million
-people worldwide. Apt assessments have compared what’s happening now to the devastations of the 1918 flu pandemic. But what’s different today is how technology has allowed us to see, almost in real time, where the virus is spreading, how it’s mutating, and what effect it’s having on economies across the world.
-This detailed view of COVID-19 is made possible thanks, in part, to a new generation of huge datasets—hundreds of genomes, millions of tweets—along with advances in computing power and the analytical methods to study them. (Credits Katherine Unger Baillie et al., 2020)
-The Nigeria Centre for Disease Control (NCDC) through the National Emergency Operations Centre (EOC) has continued to lead the national public health response in Nigeria with oversight of the Presidential Task Force on COVID-19 (PTF-COVID-19). The NCDC is also working closely with all states of the Federation to support their response activities to the pandemic.(NCDC coronavirus COVID-19 advisory, 2022)
-In light of this, data collection and analysis is necessary to inform the appropriate response, planning and allocation of resources.
-This is an interactive dashboard on the COVID-19 pandemic in Nigeria, reflecting information emerging on the disease and its impact on the Nigerian population.
+The year 2020 will be remembered for the global impact of a virus that had infected over 40 million people by late October. While drawing comparisons to the 1918 flu pandemic, one notable difference is the role of technology in providing real-time insights into the spread, mutations, and economic effects of the virus.
+
+This enhanced understanding of COVID-19 is made possible by vast amounts of data, including hundreds of genomes and millions of tweets, coupled with advancements in computing power and analytical methods. (Credits Katherine Unger Baillie et al., 2020)[^1]
+
+The Nigeria Centre for Disease Control (NCDC) and the National Emergency Operations Centre (EOC) have been at the forefront of Nigeria's public health response, working in coordination with the Presidential Task Force on COVID-19 (PTF-COVID-19). The NCDC also collaborates closely with all states of the Federation to support their pandemic response efforts. (NCDC coronavirus COVID-19 advisory, 2022)[^2]
+
+Given these circumstances, data collection and analysis are vital for informing appropriate responses, planning, and resource allocation.
+
+This interactive dashboard provides information on the COVID-19 pandemic in Nigeria, offering insights into the disease and its impact on the Nigerian population.This is an interactive dashboard on the COVID-19 pandemic in Nigeria, reflecting information emerging on the disease and its impact on the Nigerian population.
 
 
 <!-- -->
@@ -73,7 +75,7 @@ My audience is the general public and therefore the viz is to be hosted on Table
   
 <a name="prepare"/>
   
-### Prepare 🧹
+## Prepare 🧹
 Where was the data located and organized?
 
 The data was sourced from the NCDC (Nigerian Centre for Disease Control) and accessed via [link](https://data.humdata.org/m/dataset/nigeria_covid19_subnational) on the 15th of May, 2022.
@@ -84,11 +86,12 @@ There are concerns that the data from Nigeria may not completely reflective of t
 #Are there any problems with the data?
 Problems of note include the columns headers being in French and a few redundant columns.
 
-  <a name="screenshots"/>
+  <a name="process"/>
   
-### Process ⚙️
+## Process ⚙️
 
-#What tools are you choosing and why?
+_What tools are you choosing and why?_
+
 For data cleaning, exploratory data analysis (EDA) and visualization, I choose Python's pandas with Jupyter Notebooks. I like pandas versatility with handling data and together with Jupyter Notebook's flexible running of code in cells, it makes for an efficient workflow.
 #What steps have you taken to ensure that your data is clean?
 I opened a folder for the project on my PC and named the file with an appropriate naming convention.
@@ -98,16 +101,16 @@ Using a mapping function, I renamed the column headers appropriately. Where null
 On preliminary exploration on Excel, I discovered that date values on some of the tables were inconsistently formatted. Therefore all date fields have to be homogenized going forward
 
 I did all data cleaning and wrangling with Python's pandas on Jupyter Notebooks.
-The codes can be accessed via [link](https://github.com/JoshuaOlubori/Data-Science-Analytics-Portfolio- Projects/blob/main/Covid_19_in_Nigeria/nga_covid19.ipynb)
+The codes can be accessed via [link](https://github.com/JoshuaOlubori/Data-Science-Analytics-Portfolio-Projects/blob/main/Covid_19_in_Nigeria/nga_covid19.ipynb)
 
 
   <a name="insights"/>
   
-### Insights 🕵🏽‍♂️
+## Insights 🕵🏽‍♂️
 1.The states of Lagos, Federal Capital Territory (Abuja), and Rivers have the highest confirmed cases most likely due to their being port cities and Lagos' high population density.
 2.There are 246,889 confirmed cases, 223,634 recoveries and 3079 deaths.
 3.December 22nd, 2021 saw the highest number of confirmed cases at 4,006 while August 29th, 2021 was the peak of total deaths at 93.
-The visual can be viewed amd interacted with [link](https://public.tableau.com/views/Covid- 19InNigeria/Dashboard?:language=en- GB&publish=yes&:display_count=n&:origin=viz_share_link)
+The visual can be viewed amd interacted at [link](https://public.tableau.com/views/Covid-19InNigeria/Dashboard?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
 <!-- CONTACT  ☎️ -->
 
@@ -119,9 +122,10 @@ Edun Joshua Olubori - [connect on linkedin](https://www.linkedin.com/in/joshua-e
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-footnotee
-[a] Katherine Unger Baillie, Credits, Baillie, K. U., Berger, M. W., Brockmeier, E. K., Writers, Date October 28, Date, 28, O., Subtopics Data Science, Subtopics, Science, D., Schools School of Engineering & Applied Science, Schools, School of Engineering & Applied Science, Share Twitter Facebook, Share, & Twitter Facebook. (1970, May 26). The role of data in a world reshaped by covid-19. Penn Today. Retrieved May 30, 2022, from https://penntoday.upenn.edu/news/role-data-world-reshaped-covid-19
-[b]NCDC coronavirus COVID-19 microsite. Retrieved May 30, 2022, from https://covid19.ncdc.gov.ng/advisory/
+
+[^1]: Katherine Unger Baillie, Credits, Baillie, K. U., Berger, M. W., Brockmeier, E. K., Writers, Date October 28, Date, 28, O., Subtopics Data Science, Subtopics, Science, D., Schools School of Engineering & Applied Science, Schools, School of Engineering & Applied Science, Share Twitter Facebook, Share, & Twitter Facebook. (1970, May 26). The role of data in a world reshaped by covid-19. Penn Today. Retrieved May 30, 2022, from https://penntoday.upenn.edu/news/role-data-world-reshaped-covid-19
+
+[^2]: NCDC coronavirus COVID-19 microsite. Retrieved May 30, 2022, from https://covid19.ncdc.gov.ng/advisory/
 
 
 
