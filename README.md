@@ -107,11 +107,11 @@ The codes can be accessed via [link](https://github.com/JoshuaOlubori/Data-Scien
   <a name="insights"/>
   
 ## Insights 🕵🏽‍♂️
-1.The states of Lagos, Federal Capital Territory (Abuja), and Rivers have the highest confirmed cases most likely due to their being port cities and Lagos' high population density.
+- [x] The states of Lagos, Federal Capital Territory (Abuja), and Rivers have the highest confirmed cases most likely due to their being port cities and Lagos' high population density.
   
-2.There are 246,889 confirmed cases, 223,634 recoveries and 3079 deaths.
+- [x] There are 246,889 confirmed cases, 223,634 recoveries and 3079 deaths.
   
-3.December 22nd, 2021 saw the highest number of confirmed cases at 4,006 while August 29th, 2021 was the peak of total deaths at 93.
+- [x] December 22nd, 2021 saw the highest number of confirmed cases at 4,006 while August 29th, 2021 was the peak of total deaths at 93.
   
 The visual can be viewed and interacted at [link](https://public.tableau.com/views/Covid-19InNigeria/Dashboard?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
