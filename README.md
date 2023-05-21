@@ -47,7 +47,7 @@
   
 ## About The Project 🍪 
 
-![code](https://github.com/JoshuaOlubori/UK-Road-Accident-Casualties/blob/ddb49a64610e84d36ded41d2096050e7a2f3c183/report.png)
+![dashboard](https://github.com/JoshuaOlubori/Covid19-in-Nigeria/blob/a9ec8cbec0e463d4b5758603d9e84ed2cf481120/covid_19_dashboard_tableau.png)
 
 
 <a name="requirement"/>
