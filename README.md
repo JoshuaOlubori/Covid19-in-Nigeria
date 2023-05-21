@@ -31,7 +31,7 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
-  <ul style="list-style-type: none">
+  <ul>
     <li><a href="#overview">Overview</a></li>
         <li><a href="#task">Task</a></li>
         <li> <a href="#prepare">Prepare</a></li>
