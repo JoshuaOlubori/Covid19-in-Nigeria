@@ -11,7 +11,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/JoshuaOlubori/UK-Road-Accident-Casualties/blob/f47c7d604613183d31617d101d14ef5c96503f1d/LICENSE.txt
+[license-url]: https://github.com/JoshuaOlubori/Covid19-in-Nigeria/blob/80be9081293c3600ad4f586d013ad2b6a33a6d26/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/joshua-edun
 
@@ -31,7 +31,7 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
-  <ul>
+  <ul style="list-style-type: none">
     <li><a href="#overview">Overview</a></li>
         <li><a href="#task">Task</a></li>
         <li> <a href="#prepare">Prepare</a></li>
