@@ -113,7 +113,7 @@ The codes can be accessed via [link](https://github.com/JoshuaOlubori/Data-Scien
   
 - [x] December 22nd, 2021 saw the highest number of confirmed cases at 4,006 while August 29th, 2021 was the peak of total deaths at 93.
   
-The visual can be viewed and interacted at [link](https://public.tableau.com/views/Covid-19InNigeria/Dashboard?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+The visual can be viewed and interacted with at [link](https://public.tableau.com/views/Covid-19InNigeria/Dashboard?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
 <!-- CONTACT  ☎️ -->
 
