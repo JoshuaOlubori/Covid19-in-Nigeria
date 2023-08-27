@@ -49,6 +49,8 @@
 
 ![dashboard](https://github.com/JoshuaOlubori/Covid19-in-Nigeria/blob/2d36b25240aa1829c6e6b8f697f37bbe5c7de78f/dashboard.png)
 
+Live Demo: [here](https://public.tableau.com/app/profile/joshua1294/viz/Covid-19InNigeria/Dashboard)
+
 
 <a name="requirement"/>
 
@@ -122,6 +124,9 @@ The visual can be viewed and interacted with at [link](https://public.tableau.co
 ## Contact
 
 Edun Joshua Olubori - [connect on linkedin](https://www.linkedin.com/in/joshua-edun) - joshuaolubori@gmail.com
+
+Live Demo: [here](https://public.tableau.com/app/profile/joshua1294/viz/Covid-19InNigeria/Dashboard)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
